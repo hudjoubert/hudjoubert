@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hudson Joubert and I'm a Fullstackk Angular/Java/Spring Developer!!!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudjoubert&show_icons=true&theme=tokyonight&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudjoubert&show_icons=true&theme=tokyonight&hide=stars,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudjoubert&hide=Objective-C,C++&theme=tokyonight&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
